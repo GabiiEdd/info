@@ -1,0 +1,47 @@
+html {
+    margin-right: 50px;
+  }
+  
+  img {
+    overflow: auto;
+    margin: 10px;
+    width: 200px;
+    height: 350px;
+    border-radius: 20px;
+  }
+  .col2{
+    margin: 0;
+  }
+  .plott{
+    margin-top: 20px;
+    margin-left: 10px;
+    line-height: 20px;
+  }
+  .row {
+    display: flex;
+  }
+  
+  h2 {
+    color: rgb(0, 0, 0);
+    margin: 0;
+  }
+  h5 {
+    color: rgb(62, 62, 62);
+    margin: 0;
+  }
+  p {margin: 0;}
+  .rojo {
+    color:white;
+    background-color: red;
+}
+
+.amarillo {
+    color:brown;
+    background-color: yellow;
+}
+
+.verde {
+    color:white;
+    background-color: green;
+}
+ 
